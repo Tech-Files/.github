@@ -39,7 +39,7 @@ Stay updated by following us on our social media platforms:
 
 [![Twitter](https://img.shields.io/twitter/follow/TechFiles?style=social)](https://twitter.com/TechFiles)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TechFiles-blue)](https://linkedin.com/company/techfiles)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCsW1s7q7bQxGqI9TFbYX_gA?label=Subscribe&style=social)](https://www.youtube.com/c/@TechFilez)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCsW1s7q7bQxGqI9TFbYX_gA?label=Subscribe&style=social)](https://www.youtube.com/@TechFilez)
 
 ---
 
