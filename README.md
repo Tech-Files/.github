@@ -37,9 +37,7 @@ Welcome to **TechFiles**, your ultimate resource for all things tech! We provide
 
 Stay updated by following us on our social media platforms:
 
-[![Twitter](https://img.shields.io/twitter/follow/TechFiles?style=social)](https://twitter.com/TechFiles)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TechFiles-blue)](https://linkedin.com/company/techfiles)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCsW1s7q7bQxGqI9TFbYX_gA?label=Subscribe&style=social)](https://www.youtube.com/@TechFilez)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejasholla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejasholla) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Tejas-Holla-5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imtejasholla) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@techfilez) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:tejasholla@techfiles.in?subject=GitHub)
 
 ---
 
